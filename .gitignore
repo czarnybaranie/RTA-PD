@@ -1,0 +1,6 @@
+# Virtual enviroment
+.rta-venv/
+
+# Cache folders
+.pytest_cache/
+__pycache__/
